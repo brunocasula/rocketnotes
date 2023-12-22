@@ -1,5 +1,5 @@
 import { Container, Brand, Menu, Search, Content, NewNote } from "./styles";
-import { Header } from "../../components/header";
+import { Header } from "../../components/Header";
 import { ButtonText } from "../../components/ButtonText";
 import { FiPlus, FiSearch } from "react-icons/fi";
 import { Input } from "../../components/Input";
